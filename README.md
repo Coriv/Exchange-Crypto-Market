@@ -4,6 +4,7 @@ Exchange Crypto Market is a cryptocurrency trading platform that allows users to
 It provides real-time market data, trading functionality, and secure wallet management.
 
 The application is under development in a microservice architecture. If you want to look at the mono version:
+
 https://github.com/Coriv/SenseiMarket
 
 ## Features
